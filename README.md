@@ -1,0 +1,2 @@
+# Matrizes
+O usuário deverá digitar a quantidade de linhas e colunas da matriz. Definida a dimensão da matriz o usuário irá povoar a matriz com caracteres, feito isso o programa realizará a impressão dos caracteres contidos e depois irá fazer a contagem dos caracteres. Com uma função o programa irá pegar o primeiro carácter inserido e irá realizar uma operação. Se o carácter for maiúsculo será realizada a operação de divisão por 10. Caso contrário será realizada a operação de multiplicação por 2. Por fim, o programa irá imprimir o resultado da operação.
